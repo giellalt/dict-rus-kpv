@@ -1,13 +1,6 @@
-remote_theme: giellalt/jekyll-theme-giellalt@main
+theme: jekyll-theme-giellalt
 title: Dictionary for Russian ⇒ Komi Zyryam
 description: An electronic dictionary from Russian to Komi Zyryam
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jemoji
-  - jekyll-optional-front-matter
 
 defaults:
   - scope: { path: "" }
